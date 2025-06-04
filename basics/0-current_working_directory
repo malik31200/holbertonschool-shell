@@ -1,1 +1,3 @@
-#t/bin/hash
+#!/bin/bash
+pwd
+
