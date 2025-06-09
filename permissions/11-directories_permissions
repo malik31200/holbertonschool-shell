@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod -R ugo+X permissions/
+#!/bin/bashi
+chmod -r ugo+X permissions/
